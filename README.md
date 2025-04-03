@@ -1,19 +1,30 @@
-# 🧠 Python Challenges & Mini Projects
+# 🤖 Python Mini Projects & Machine Learning Experiments
 
-Welcome to my collection of fun, self-contained coding exercises and experimental builds using Python. This is a space for sharpening programming, data science, and problem-solving skills through small, focused challenges.
+A focused portfolio of **Python-based projects** designed to develop and demonstrate skills in **machine learning**, **AI modelling**, and structured problem-solving. This repository supports my growth as a Data Scientist through hands-on exploration of real-world datasets, algorithmic challenges, and end-to-end ML pipelines — including **Kaggle competition work**.
 
-> 🎯 Designed to explore algorithms, logic, data manipulation, visualisation, and automation.
+> 🎯 Built to strengthen skills in data analysis, model development, AI workflows, and reproducible ML practices using Python.
+
+---
+
+## 📁 Project Highlights
+
+| Project | Description | Focus Areas |
+|--------|-------------|--------------|
+| 🎧 [Podcast Listening Time Prediction](https://github.com/KetchupJL/Python-Challenges-MiniProjects/tree/main/Predict%20Podcast%20Listening%20Time-%20Kaggle%20Competition) | Kaggle competition (Top 20%) – full ML pipeline with LightGBM and feature engineering | ML modelling, tuning, Python pipeline design |
+| 🐍 Snake Game | Terminal-based snake game | Logic, game loops, Pygame |
+| 🧠 Coding Challenges | Algorithmic exercises and function design | Python logic, recursion, problem solving |
+| 📊 Data Explorations | Visual and statistical exploration of small datasets | pandas, seaborn, matplotlib |
+| 🔧 Tools & Utilities | Miscellaneous Python scripts and automations | CLI tools, file I/O, parsing |
 
 ---
 
-## 📁 What You'll Find Here
-
-| Project | Description | Topics |
-|--------|-------------|--------|
-| Snake Game | A classic terminal-based snake game | Game loops, logic, Pygame |
-| Coding Challenges | A set of logic and algorithmic problems | Functions, recursion, problem-solving |
-| ML Experiments | Explorations of simple machine learning workflows | scikit-learn, model training, metrics |
-| Data Explorations | Mini EDA tasks and visualisations on open datasets | pandas, matplotlib, seaborn |
-| Tools & Utilities | Random Python scripts and small CLI tools | File I/O, parsing, automation |
+## 🛠️ Core Technologies
+- **Machine Learning**: scikit-learn, LightGBM, model selection & evaluation
+- **Data Science**: pandas, numpy, seaborn, matplotlib
+- **Python Development**: modular scripts, notebook workflows, automation tools
+- **Competitions**: end-to-end Kaggle workflows from feature engineering to leaderboard submission
 
 ---
+
+This repository is continuously evolving with new experiments, model improvements, and creative Python builds aimed at advancing my ML and AI development journey.
+
