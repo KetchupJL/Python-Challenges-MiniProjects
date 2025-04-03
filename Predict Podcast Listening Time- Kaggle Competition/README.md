@@ -60,6 +60,8 @@ These features helped the model better capture listening behaviour nuances and t
 | MAE    | 13.8     |
 | R^2    | 0.85+    |
 
+<p align="center"> <img src="https://raw.githubusercontent.com/KetchupJL/Python-Challenges-MiniProjects/main/Predict%20Podcast%20Listening%20Time-%20Kaggle%20Competition/Figures/Final%20Model%20-%20Feature%20Importance.png" alt="LightGBM Feature Importance" width="48%"/> <img src="https://raw.githubusercontent.com/KetchupJL/Python-Challenges-MiniProjects/main/Predict%20Podcast%20Listening%20Time-%20Kaggle%20Competition/Figures/Final%20Model%20-%20Residual%20Plot.png" alt="LightGBM Residual Plot" width="48%"/> </p>
+
 ---
 
 ## Repository Structure
